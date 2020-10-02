@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(60, 60, 60);
+  color: white;
+}
+
+h1 {
+  text-align:left;
+  width:90vw;
+}
+
+h2 {
+  font-size: 1.5em;
+  text-align: top left;
+}
+
+h3 {
+  text-align:center;
+  word-spacing: 250px;
+}
+
+nav {
+  color: white;
+  background-color: royalblue;
+  margin: 4px 0px;
+  border: 4px 0px;
+  border-color: white;
+  padding: 12px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  padding: 25px 50px;
+}
